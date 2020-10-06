@@ -1,4 +1,4 @@
-// sample implementation of solving Sudoku problems
+// simple implementation of solving Sudoku problems
 
 #include <stdio.h>
 
